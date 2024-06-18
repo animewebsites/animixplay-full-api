@@ -1,6 +1,6 @@
 # Animixplay Full API
 
-An unofficial [Animixplay](https://animixplay.fun) API built with the [official JSON API](https://api.Animixplay.org/docs.html). Supports Node.js and browsers.
+An unofficial [Animixplay](https://animixplay.fun). Supports Node.js and browsers.
 
 ```bash
 npm install Animixplay-full-api@6.0.0-beta.0
@@ -19,15 +19,6 @@ Anime.search({
     });
 });
 ```
-
-# Tutorials
-
--   [Authentication](#authentication)
--   [Getting Page Images](#page-images)
--   [Relationships](#relationships)
--   [Finding Anime](#finding-Anime)
--   [Uploading Chapters](#uploading-chapters)
-
 
 #### Authentication
 
