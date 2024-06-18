@@ -53,7 +53,7 @@ console.log(pages);
 
 Animixplay will return Relationship objects for associated data objects instead of the entirety of each object.
 
-For example, authors and artists will be returned as `Relationship<Author>` when requesting a Anime. To request the author data, use the `resolve` method.
+For example, authors and artists will be returned as `Relationship<Author>` when requesting a [Anime](https://kayoanimetv.com/). To request the author data, use the `resolve` method.
 
 Additionally, you can supply `'author'` to the `includes` parameter to include the author data alongside the Anime request. You will still need to call the `resolve` method, but the promise will return instantly.
 
